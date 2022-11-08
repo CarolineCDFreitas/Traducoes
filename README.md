@@ -4,5 +4,6 @@ Aqui apresentamos a primeira proposta brasileira de uma tradução para Περ�
 
  - Prefácio
  - Centauros
-  - Pasífae
-   - Os semeados
+ - Pasífae
+ - Os semeados
+ - A Esfinge cadmeia 
