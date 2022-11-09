@@ -1,5 +1,5 @@
-#Paléfato
-##_Histórias Inacreditáveis_
+Paléfato
+_Histórias Inacreditáveis_
  - Praefacio
   - _Centauros_
    - _Pasífae_
